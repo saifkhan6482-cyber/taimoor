@@ -1,0 +1,7 @@
+{
+  "name": "Vocalize AI - Pro TTS Studio",
+  "description": "A high-end text-to-speech application powered by Gemini 2.5 Flash, featuring realistic voices, emotional styling, and audio downloads.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
